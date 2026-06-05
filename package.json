@@ -1,0 +1,11 @@
+{
+  "name": "deepthinker-app",
+  "version": "1.0.0",
+  "private": true,
+  "description": "DeepThinker / CogniMind — a digital brain that turns a fleeting idea into systematic, cross-frontier insight.",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.100.0"
+  }
+}
